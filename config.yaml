@@ -6,7 +6,6 @@ keywords:
         kaggle: 1
         anomaly detection: 1
         failure prediction: 1
-        resnet : 1
 
 # 通知の閾値
 score_threshold: 0
